@@ -1,24 +1,23 @@
-# README
+# THP - SEMAINE 6 - stripe app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> contributeur: GOUACIDE Kwevan / ENG Eang-Ly / Kozlowski Julia
 
-Things you may want to cover:
 
-* Ruby version
+### Lien du site:  
 
-* System dependencies
+https://moogstripe.herokuapp.com/
 
-* Configuration
+### Pour une utilisation en local
 
-* Database creation
+Après avoir clone le repo et entrer dans le dossier
 
-* Database initialization
+Dans le TERMINAL
+```sh
+bundle install
+```
 
-* How to run the test suite
+Puis aller sur ce lien
 
-* Services (job queues, cache servers, search engines, etc.)
+localhost:3000/
 
-* Deployment instructions
 
-* ...
